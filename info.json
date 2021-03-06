@@ -1,11 +1,4 @@
 {
-    "Sygikal":{
-        "uid":1,
-        "rank":"Developer",
-        "username":"Sygikal",
-        "password":"69",
-        "hwid":"3c5-3ff-33c-3e3-3aa-3d8-309-3c5-375-3b4-3f9-3db-3aa-39d-39d-322"
-    },
     "anusman":{
         "uid":2,
         "rank":"TestUser",
