@@ -20,8 +20,15 @@
         "password":"LoveMyFamily!",
         "hwid":"39a-3e7-3ca-36f-334-36f-323-30b-39e-34b-301-329-338-3ac-343-37b"
     },
-    "God":{
+    "Hacker":{
         "uid":4,
+        "rank":"User",
+        "username":"Hacker",
+        "password":"123456789",
+        "hwid":"3aa-3c0-334-3aa-3fe-318-30e-31c-39b-337-3b0-379-30e-3fd-311-375"
+    },
+    "God":{
+        "uid":5,
         "rank":"User",
         "username":"God",
         "password":"Bulgogi!",
