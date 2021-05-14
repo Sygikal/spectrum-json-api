@@ -12,7 +12,7 @@
         "rank":"TestUser",
         "username":"anusman",
         "password":"420",
-        "id":423300998631784448,
+        "did":423300998631784448,
         "hwid":"3c5-3ff-33c-3e3-3aa-3d8-309-3c5-375-3b4-3f9-3db-3aa-39d-39d-322"
     },
     "Spexcl":{
@@ -20,7 +20,7 @@
         "rank":"User",
         "username":"Spexcl",
         "password":"LoveMyFamily!",
-        "id":823437438885036062,
+        "did":823437438885036062,
         "hwid":"39a-3e7-3ca-36f-334-36f-323-30b-39e-34b-301-329-338-3ac-343-37b"
     },
     "Hacker":{
@@ -28,7 +28,7 @@
         "rank":"User",
         "username":"Hacker",
         "password":"123456789",
-        "id":-1,
+        "did":-1,
         "hwid":"3aa-3c0-334-3aa-3fe-318-30e-31c-39b-337-3b0-379-30e-3fd-311-375"
     },
     "God":{
@@ -36,7 +36,7 @@
         "rank":"User",
         "username":"God",
         "password":"Bulgogi!",
-        "id":514258655990775808,
+        "did":514258655990775808,
         "hwid":"347-393-313-315-36f-31f-3eb-368-3ce-3c8-39f-39f-310-362-327-348"
     }
 }
